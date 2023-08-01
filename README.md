@@ -1,4 +1,4 @@
-# Electoral System Analysus
+# Electoral System Analysis
 
 ## About:
 
